@@ -19,9 +19,4 @@ Currently enthusiasthically expanding my knowledge in operating systems (OS) , t
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CezarManolache&show_icons=true&theme=tokyonight)
-
----
 > *"Control is an illusion."*
