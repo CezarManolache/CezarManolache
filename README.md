@@ -51,22 +51,3 @@
 </p>
 
 ---
-
-### 📈 ANALYTICS & LOGS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CezarManolache&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Cezar's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CezarManolache&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" />
-</p>
-
----
-
-### 📩 CONNECT_TO_NODE
-# Ping my professional node
-> ping -c 1 [linkedin.com/in/cezar-manolache](https://linkedin.com/in/cezar-manolache)
-
-# Send an encrypted transmission
-> echo "Hello, friend." | nc -v 127.0.0.1 1337
-
-* **Python:** Viitorul tool pentru automatizare și exploit-uri.
-* **Cisco:** Drumul către **CCNA** și înțelegerea rețelelor.
-* **Kali & AWS:** Pentesting practic și securitate în Cloud.
