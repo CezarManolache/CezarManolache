@@ -12,14 +12,13 @@
 </p>
 
 ---
-
 <p align="center">
-  <b>Cezar Manolache</b><br>
-  First-year student exploring the layers of the Linux kernel and the depths of the OSI model.<br>
-  *"Control is an illusion."*
+  <b>[ MANOLACHE CEZAR-PETRU ]</b><br>
+  <code>Type: Human.Entity.Student</code> | <code>Node: CSIE-ASE_BUCHAREST</code><br>
+  <code>Target: Offensive Security Certified Professional (OSCP)</code><br>
+  <i>"I've never found it hard to hack people. Vulnerabilities are like a neon sign."</i>
 </p>
 
----
 ---
 # 📂 ~/learning/path/2026_2030_roadmap
 #### 🟢 PHASE 0: THE CORE (In Progress)
