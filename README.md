@@ -19,9 +19,9 @@
 <p align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="linux" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" height="45" alt="bash" />
-  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="git" />
   <img src="https://cdn.simpleicons.org/c/A8B9CC" width="45" height="45" alt="c" />
   <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" height="45" alt="cpp" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="git" />
 </p>
 
 * **Linux & Bash:** Pwning **OverTheWire Bandit** levels right now.
