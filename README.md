@@ -18,6 +18,7 @@
   <code>Target: Offensive Security Certified Professional (OSCP)</code><br>
   <i>"I've never found it hard to hack people. Vulnerabilities are like a neon sign."</i>
 </p>
+
 ---
 # 📂 ~/learning/path/2026_2030_roadmap
 #### 🟢 PHASE 0: THE CORE (In Progress)
