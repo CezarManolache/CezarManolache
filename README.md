@@ -1,22 +1,13 @@
-# Hey, there. 👋
+# [root@CezarManolache ~]# whoami 🕵️‍♂️
 
-I'm **Manolache Cezar-Petru**, in my first year of Cyber Security & Informatics at **CSIE - ASE Bucharest**. 
-Currently enthusiasthically expanding my knowledge in operating systems (OS) , through Linux ( CentOS & Ubuntu ) and dwelving into Networking concepts.  
-
----
-
-### 🚩 My Learning Path
-- 🐧 **Linux Administration:** Preparing for **LPIC-1**.
-- 🌐 **Networking:** Studying for **Cisco CCNA**.
-- 🛠️ **Focus:** System Administration, Network Security, Coding.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Control+is+an+illusion.;Informatics+@+ASE+Bucuresti;Aspiring+Cyber+Security+Expert;Hack+the+Planet." alt="Typing SVG" />
+</p>
 
 ---
 
-### 📊 Tech Stack & Tools
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-> *"Control is an illusion."*
+### 🟢 SYSTEM STATUS: INITIALIZING_CAREER_PATH
+```bash
+> Current Location: Bucharest, Romania
+> Affiliation: CSIE - Cybernetics, ASE
+> Target: Senior Pentester @ 30 y.o. (€5k+ Net)
