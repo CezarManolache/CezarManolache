@@ -17,7 +17,7 @@
 
 - [x] **PHASE 0: FUNDAMENTALS** | Linux (LPIC-1) & Bash Scripting 🐧
   ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=flat-square&logo=linux&logoColor=white&labelColor=FCC624)
-  > *Status: Currently pwn-ing levels on OverTheWire Bandit.*
+  > *Status: Currently preparing for LPIC-1*
 
 - [ ] **PHASE 1: NETWORKING** | Network Mastery (Cisco CCNA) 🌐
   ![CCNA](https://img.shields.io/badge/CERT-CISCO_CCNA-049FD9?style=flat-square&logo=cisco&logoColor=white)
@@ -29,7 +29,7 @@
 
 - [ ] **PHASE 3: SCRIPTING** | Python for Cyber (Automation) 🐍
   ![Python](https://img.shields.io/badge/SKILL-PYTHON_FOR_CYBER-3776AB?style=flat-square&logo=python&logoColor=white)
-  > *Building the arsenal: Exploit dev and security automation.*
+  > *Exploit dev and security automation.*
 
 - [ ] **PHASE 4: INTRODUCTION TO PENTESTING** | Practical Pentesting (eJPT / HTB) ⚔️
   ![eJPT](https://img.shields.io/badge/CERT-eJPT_v2-red?style=flat-square&logo=hackthebox&logoColor=white)
@@ -37,7 +37,7 @@
 
 - [ ] **PHASE 5: PENTESTING** | Offensive Security (OSCP) 🚩
   ![OSCP](https://img.shields.io/badge/CERT-OSCP-black?style=flat-square&logo=offsec&logoColor=white&labelColor=9A0000)
-  > *Ultimate Goal: 24 hours of pure exploitation.*
+  > *Goal*
 
 ---
 ### 🛠️ Languages and Tools
