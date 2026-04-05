@@ -7,31 +7,37 @@
 </p>
 
 ---
+
 <p align="center">
   <img src="https://img.shields.io/badge/ASE_Bucharest-Informatica_Economică(Cibernetică)-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
 </p>
-
 ---
-# 📂 ~/learning/path/2026_2030_roadmap
-#### PHASE 0: FUNDAMENTALS(In Progress)
-![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624) 
-> Status: Preparing for LPIC-1
 
-#### PHASE 1: NETWORKING
-![CCNA](https://img.shields.io/badge/CERT-CISCO_CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-> Target: Summer 2026.
+### 📂 ~/learning/path/2026_2030_roadmap
 
-#### PHASE 2: AUTOMATION
-![Python](https://img.shields.io/badge/SKILL-PYTHON_FOR_CYBER-3776AB?style=for-the-badge&logo=python&logoColor=white)
-> Goal: Exploit development and security scripting.
+- [x] **PHASE 0: THE CORE** | Linux (LPIC-1) & Bash Scripting 🐧
+  ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=flat-square&logo=linux&logoColor=white&labelColor=FCC624)
+  > *Status: Currently pwn-ing levels on OverTheWire Bandit.*
 
-#### PHASE 3: THE BRIDGE (JUNIOR PENTESTING)
-![eJPT](https://img.shields.io/badge/CERT-eJPT_v2-red?style=for-the-badge&logo=hackthebox&logoColor=white)
-> Focus: Practical labs and initial penetration testing methodology.
+- [ ] **PHASE 1: THE BACKBONE** | Network Mastery (Cisco CCNA) 🌐
+  ![CCNA](https://img.shields.io/badge/CERT-CISCO_CCNA-049FD9?style=flat-square&logo=cisco&logoColor=white)
+  > *Target: Summer 2026. Understanding the matrix.*
 
-#### PHASE 4: THE PINNACLE
-![OSCP](https://img.shields.io/badge/CERT-OSCP-black?style=for-the-badge&logo=offsec&logoColor=white&labelColor=9A0000)
-> Ultimate Goal: Master the art of exploitation.
+- [ ] **PHASE 2: THE DEFENSE** | Security Foundations (CompTIA Security+) 🛡️
+  ![Security+](https://img.shields.io/badge/CERT-SECURITY%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=BC002D)
+  > *Bridging the gap between networking and offensive security.*
+
+- [ ] **PHASE 3: THE SCRIPTING** | Python for Cyber (Automation) 🐍
+  ![Python](https://img.shields.io/badge/SKILL-PYTHON_FOR_CYBER-3776AB?style=flat-square&logo=python&logoColor=white)
+  > *Building the arsenal: Exploit dev and security automation.*
+
+- [ ] **PHASE 4: THE BRIDGE** | Practical Pentesting (eJPT / HTB) ⚔️
+  ![eJPT](https://img.shields.io/badge/CERT-eJPT_v2-red?style=flat-square&logo=hackthebox&logoColor=white)
+  > *First contact with real-world penetration testing methodology.*
+
+- [ ] **PHASE 5: THE PINNACLE** | Offensive Security (OSCP) 🚩
+  ![OSCP](https://img.shields.io/badge/CERT-OSCP-black?style=flat-square&logo=offsec&logoColor=white&labelColor=9A0000)
+  > *Ultimate Goal: 24 hours of pure exploitation.*
 
 ---
 ### 🛠️ Languages and Tools
