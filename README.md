@@ -14,7 +14,7 @@
 ---
 <p align="center">
   <b>[ MANOLACHE CEZAR-PETRU ]</b><br>
-  <code>Type: Human.Entity.Student</code> | <code>Node: Informatica_Economic@ASE_Bucharest (Cibernetica)</code><br>
+  <code>Role: Student & Cyber Explorer</code> | <code>Node: Informatica_Economic@ASE_Bucharest (Cibernetica)</code><br>
   <code>Target: Offensive Security Certified Professional (OSCP)</code><br>
   <i>"I've never found it hard to hack people. Vulnerabilities are like a neon sign."</i>
 </p>
