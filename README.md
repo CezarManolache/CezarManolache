@@ -13,23 +13,23 @@
 
 ---
 # 📂 ~/learning/path/2026_2030_roadmap
-#### 🟢 PHASE 0: THE CORE (In Progress)
+#### PHASE 0: THE CORE (In Progress)
 ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624) 
 > Status: Preparing for LPIC-1
 
-#### 🔵 PHASE 1: NETWORKING
+#### PHASE 1: NETWORKING
 ![CCNA](https://img.shields.io/badge/CERT-CISCO_CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 > Target: Summer 2026.
 
-#### 🐍 PHASE 2: AUTOMATION
+#### PHASE 2: AUTOMATION
 ![Python](https://img.shields.io/badge/SKILL-PYTHON_FOR_CYBER-3776AB?style=for-the-badge&logo=python&logoColor=white)
 > Goal: Exploit development and security scripting.
 
-#### ⚔️ PHASE 3: THE BRIDGE (JUNIOR PENTESTING)
+#### PHASE 3: THE BRIDGE (JUNIOR PENTESTING)
 ![eJPT](https://img.shields.io/badge/CERT-eJPT_v2-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 > Focus: Practical labs and initial penetration testing methodology.
 
-#### 🚩 PHASE 4: THE PINNACLE
+#### PHASE 4: THE PINNACLE
 ![OSCP](https://img.shields.io/badge/CERT-OSCP-black?style=for-the-badge&logo=offsec&logoColor=white&labelColor=9A0000)
 > Ultimate Goal: Master the art of exploitation.
 
