@@ -8,7 +8,7 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/CSIE--ASE_BUCHAREST-CYBERSECURITY-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
+  <img src="https://img.shields.io/badge/ASE_Bucharest-Informatica_Economică(Cibernetică)-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
 </p>
 
 ---
