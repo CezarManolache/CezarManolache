@@ -5,6 +5,25 @@
 </p>
 
 ---
+<h1 align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
+  [root@cezmanolache ~]# whoami
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CSIE--ASE_BUCHAREST-CYBERSECURITY-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
+</p>
+
+---
+
+<p align="center">
+  <b>Cezar Manolache</b><br>
+  First-year student exploring the layers of the Linux kernel and the depths of the OSI model.<br>
+  *"Control is an illusion."*
+</p>
+
+---
+---
 # 📂 ~/learning/path/2026_2030_roadmap
 #### 🟢 PHASE 0: THE CORE (In Progress)
 ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624) 
