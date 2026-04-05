@@ -14,20 +14,27 @@
 - [ ] **Phase 4:** | Offensive Security Certified Professional (OSCP) 🚩
 
 ---
-### 🛠️ ACTIVE_ARSENAL (Current Skills)
-> "The basics are the foundation of every hack."
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,cpp&theme=dark)](https://skillicons.dev)
+### 🛠️ ACTIVE_ARSENAL (What I'm using now)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="linux" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" height="45" alt="bash" />
+  <img src="https://cdn.simpleicons.org/git/F05032" width="45" height="45" alt="git" />
+  <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="45" height="45" alt="cpp" />
+</p>
 
-* **Linux & Bash:** Currently pwning levels on **OverTheWire Bandit**.
-* **Git:** Version control for my journey.
-* **C++:** Academic foundation @ CSIE.
+* **Linux & Bash:** Pwning **OverTheWire Bandit** levels right now.
+* **Git & C++:** Academic foundations and version control.
 
 ---
 
-### 🎯 TARGETING (Currently Learning / Future)
-> "Acquiring new tools for the endgame."
-[![Target Skills](https://skillicons.dev/icons?i=py,cisco,kali,aws,docker&theme=dark)](https://skillicons.dev)
+### 🎯 TARGETING (Future Tools & Goals)
+<p align="left">
+  <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="python" />
+  <img src="https://cdn.simpleicons.org/cisco/049FD9" width="45" height="45" alt="cisco" />
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45" height="45" alt="kali" />
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" width="45" height="45" alt="aws" />
+</p>
 
-* **Python:** Next step for automation and exploit dev.
-* **Networking:** Road to **CCNA**.
-* **Offensive:** Preparing for the **OSCP** grind.
+* **Python:** Viitorul tool pentru automatizare și exploit-uri.
+* **Cisco:** Drumul către **CCNA** și înțelegerea rețelelor.
+* **Kali & AWS:** Pentesting practic și securitate în Cloud.
