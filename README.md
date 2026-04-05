@@ -5,9 +5,9 @@
 </p>
 
 ---
-
-### 🟢 SYSTEM STATUS: INITIALIZING_CAREER_PATH
-```bash
-> Current Location: Bucharest, Romania
-> Affiliation: CSIE - Cybernetics, ASE
-> Target: Senior Pentester @ 30 y.o. (€5k+ Net)
+### 📂 ~/learning/path/2026_roadmap
+- [x] **Phase 0:** Master Linux (LPIC-1 / Linux+) & Bash Scripting 🐧
+- [ ] **Phase 1:** Network Mastery (Cisco CCNA) 🌐
+- [ ] **Phase 2:** Security Fundamentals (CompTIA Security+) 🛡️
+- [ ] **Phase 3:** Cloud Architecture (AWS Cloud Practitioner) ☁️
+- [ ] **Phase 4:** Offensive Operations (OSCP / HTB CJCA) 🚩
