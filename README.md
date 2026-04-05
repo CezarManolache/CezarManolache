@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix Rain" width="600"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=200&section=header&text=CEZAR%20MANOLACHE&fontSize=70&animation=fadeIn&fontColor=00FF41" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6Mmt6ZHg0eXF6Mmt6ZHg0eXF6Mmt6ZHg0eXF6Mmt6ZHg0JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/oBI7ntM8V5uog/giphy.gif" width="100%" height="150px" style="object-fit: cover;" />
 </p>
 
 ---
