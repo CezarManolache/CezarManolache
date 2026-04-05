@@ -15,4 +15,7 @@
 
 ---
 ### 🛠️ STACK_AND_ARSENAL
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,py,cisco,kali,aws,git,docker,cpp,postgres)](https://skillicons.dev)
+
+<p align="left">
+  [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,kali,wireshark,cisco,aws,git,docker,cpp,postgres)](https://skillicons.dev)
+</p>
