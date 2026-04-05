@@ -15,27 +15,27 @@
 
 ### 📂 ~/learning/path/2026_2030_roadmap
 
-- [x] **PHASE 0: THE CORE** | Linux (LPIC-1) & Bash Scripting 🐧
+- [x] **PHASE 0: FUNDAMENTALS** | Linux (LPIC-1) & Bash Scripting 🐧
   ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=flat-square&logo=linux&logoColor=white&labelColor=FCC624)
   > *Status: Currently pwn-ing levels on OverTheWire Bandit.*
 
-- [ ] **PHASE 1: THE BACKBONE** | Network Mastery (Cisco CCNA) 🌐
+- [ ] **PHASE 1: NETWORKING** | Network Mastery (Cisco CCNA) 🌐
   ![CCNA](https://img.shields.io/badge/CERT-CISCO_CCNA-049FD9?style=flat-square&logo=cisco&logoColor=white)
   > *Target: Summer 2026. Understanding the matrix.*
 
-- [ ] **PHASE 2: THE DEFENSE** | Security Foundations (CompTIA Security+) 🛡️
+- [ ] **PHASE 2: INTRODUCTION TO SECURITY** | Security Foundations (CompTIA Security+) 🛡️
   ![Security+](https://img.shields.io/badge/CERT-SECURITY%2B-FF0000?style=flat-square&logo=comptia&logoColor=white&labelColor=BC002D)
   > *Bridging the gap between networking and offensive security.*
 
-- [ ] **PHASE 3: THE SCRIPTING** | Python for Cyber (Automation) 🐍
+- [ ] **PHASE 3: SCRIPTING** | Python for Cyber (Automation) 🐍
   ![Python](https://img.shields.io/badge/SKILL-PYTHON_FOR_CYBER-3776AB?style=flat-square&logo=python&logoColor=white)
   > *Building the arsenal: Exploit dev and security automation.*
 
-- [ ] **PHASE 4: THE BRIDGE** | Practical Pentesting (eJPT / HTB) ⚔️
+- [ ] **PHASE 4: INTRODUCTION TO PENTESTING** | Practical Pentesting (eJPT / HTB) ⚔️
   ![eJPT](https://img.shields.io/badge/CERT-eJPT_v2-red?style=flat-square&logo=hackthebox&logoColor=white)
   > *First contact with real-world penetration testing methodology.*
 
-- [ ] **PHASE 5: THE PINNACLE** | Offensive Security (OSCP) 🚩
+- [ ] **PHASE 5: PENTESTING** | Offensive Security (OSCP) 🚩
   ![OSCP](https://img.shields.io/badge/CERT-OSCP-black?style=flat-square&logo=offsec&logoColor=white&labelColor=9A0000)
   > *Ultimate Goal: 24 hours of pure exploitation.*
 
