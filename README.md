@@ -8,7 +8,7 @@
 # 📂 ~/learning/path/2026_2030_roadmap
 #### 🟢 PHASE 0: THE CORE (In Progress)
 ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624) 
-> Status: Learning via Imran Afzal & OverTheWire Bandit.
+> Status: Preparing for LPIC-1
 
 #### 🔵 PHASE 1: NETWORKING
 ![CCNA](https://img.shields.io/badge/CERT-CISCO_CCNA-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
