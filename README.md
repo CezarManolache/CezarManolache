@@ -11,9 +11,11 @@
   <img src="https://img.shields.io/badge/ASE_Bucharest-Informatica_Economică(Cibernetică)-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
 </p>
 
-I’m Cezar Manolache, a motivated student and aspiring cybersecurity enthusiast.  
-Preparing for my first certification LPIC-1 and exploring Networking fundamentals while learning cybersecurity and programming fundamentals.  
-Interested in AI automation and applying it to real-world cybersecurity solutions.
+# Hey there 👋
+
+I’m **Cezar Manolache**, a motivated student and aspiring cybersecurity enthusiast in my first year of **Economic Informatics (Cibernetică) at ASE Bucharest**. I am passionate about the offensive side of security, focusing on understanding how systems work from the ground up to better identify and mitigate vulnerabilities.
+
+Currently, I am actively preparing for my first professional certification, **LPIC-1**, while deep-diving into **Networking fundamentals** and core programming concepts. I’m also highly interested in **AI automation** and exploring how current AI models can be integrated into real-world cybersecurity solutions to improve efficiency, threat detection, and impact.
 ---
 
 ### 📂 ~/learning/path/2026_2030_roadmap
