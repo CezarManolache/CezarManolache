@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Matrix Rain" width="600"/>
+</p>
+
+---
+
 <h1 align="center">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
   [root@cezmanolache ~]# whoami
