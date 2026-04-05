@@ -13,8 +13,7 @@
 
 # Hey there 👋
 
-I’m **Cezar Manolache**, a motivated student and aspiring cybersecurity enthusiast in my first year of **Economic Informatics (Cibernetică) at ASE Bucharest**. Preparing for my first certification LPIC-1 and exploring Networking fundamentals while learning cybersecurity and programming fundamentals.  
-Interested in AI automation and applying it to real-world cybersecurity solutions.
+I’m **Cezar Manolache**, a motivated student and aspiring cybersecurity enthusiast in my first year of **Economic Informatics (Cibernetică) at ASE Bucharest**. Preparing for my first certification LPIC-1 and exploring Networking fundamentals while learning cybersecurity and programming fundamentals.  Interested in AI automation and applying it to real-world cybersecurity solutions.
 
 ---
 
