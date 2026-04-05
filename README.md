@@ -13,7 +13,7 @@
 
 ---
 # 📂 ~/learning/path/2026_2030_roadmap
-#### PHASE 0: THE CORE (In Progress)
+#### PHASE 0: FUNDAMENTALS(In Progress)
 ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=for-the-badge&logo=linux&logoColor=white&labelColor=FCC624) 
 > Status: Preparing for LPIC-1
 
