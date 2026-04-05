@@ -14,7 +14,8 @@
 - [ ] **Phase 4:** | Offensive Security Certified Professional (OSCP) 🚩
 
 ---
-### 🛠️ ACTIVE_ARSENAL (What I'm using now)
+### 🛠️ Languages and Tools
+## (What I'm using now)
 <p align="left">
   <img src="https://cdn.simpleicons.org/linux/FCC624" width="45" height="45" alt="linux" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="45" height="45" alt="bash" />
@@ -27,7 +28,7 @@
 
 ---
 
-### 🎯 TARGETING (Future Tools & Goals)
+## (Future Tools & Goals)
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" width="45" height="45" alt="python" />
   <img src="https://cdn.simpleicons.org/cisco/049FD9" width="45" height="45" alt="cisco" />
