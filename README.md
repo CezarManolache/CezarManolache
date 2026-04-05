@@ -5,9 +5,11 @@
 </p>
 
 ---
-### 📂 ~/learning/path/2026_roadmap
-- [x] **Phase 0:** Master Linux (LPIC-1 / Linux+) & Bash Scripting 🐧
-- [ ] **Phase 1:** Network Mastery (Cisco CCNA) 🌐
-- [ ] **Phase 2:** Security Fundamentals (CompTIA Security+) 🛡️
-- [ ] **Phase 3:** Cloud Architecture (AWS Cloud Practitioner) ☁️
-- [ ] **Phase 4:** Offensive Operations (OSCP / HTB CJCA) 🚩
+# 📂 ~/learning/path/2026_2030_roadmap
+
+- [x] **Phase 0:** | Linux (LPIC-1) & Bash Scripting 🐧
+- [ ] **Phase 1:** | Network Mastery (Cisco CCNA) 🌐
+- [ ] **Phase 2:** | Python for Cyber (Automation & Exploit Dev) 🐍
+- [ ] **Phase 3:** | Practical Pentesting (eJPT / HTB Academy) ⚔️
+- [ ] **Phase 4:** | Offensive Security Certified Professional (OSCP) 🚩
+- [ ] **Phase 5:** | Cloud Security Operations (AWS Security Specialty) ☁️
