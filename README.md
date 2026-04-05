@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hello, friend. 🤖
 
-<!--
-**CezarManolache/CezarManolache** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Manolache Cezar-Petru**, a Cyber Security & Informatics student at **CSIE - ASE Bucharest**. 
+Currently exploring the depths of Linux kernels and the layers of the OSI model.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚩 My Learning Path
+- 🐧 **Linux Administration:** Preparing for **LPIC-1** (Currently solving **Bandit** on OverTheWire).
+- 🌐 **Networking:** Studying for **Cisco CCNA**.
+- 🛠️ **Focus:** System Administration, Network Security, Bash Scripting.
+
+---
+
+### 📊 Tech Stack & Tools
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+![Cezar's GitHub stats](https://github-readme-stats.vercel.app/api?username=CezarManolache&show_icons=true&theme=tokyonight)
+
+---
+> *"Control is an illusion."*
