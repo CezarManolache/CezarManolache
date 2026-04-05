@@ -1,7 +1,7 @@
-# Hello, friend. 🤖
+# Hey, there. 👋
 
-I'm **Manolache Cezar-Petru**, a Cyber Security & Informatics student at **CSIE - ASE Bucharest**. 
-Currently exploring the depths of Linux kernels and the layers of the OSI model.
+I'm **Manolache Cezar-Petru**, in my first year of Cyber Security & Informatics at **CSIE - ASE Bucharest**. 
+Currently enthusiasthically expanding my knowledge in operating systems (OS) , through Linux ( CentOS & Ubuntu ) and dwelving into Networking concepts.  
 
 ---
 
