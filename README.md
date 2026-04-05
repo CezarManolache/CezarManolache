@@ -6,9 +6,9 @@ Currently enthusiasthically expanding my knowledge in operating systems (OS) , t
 ---
 
 ### 🚩 My Learning Path
-- 🐧 **Linux Administration:** Preparing for **LPIC-1** (Currently solving **Bandit** on OverTheWire).
+- 🐧 **Linux Administration:** Preparing for **LPIC-1**.
 - 🌐 **Networking:** Studying for **Cisco CCNA**.
-- 🛠️ **Focus:** System Administration, Network Security, Bash Scripting.
+- 🛠️ **Focus:** System Administration, Network Security, Coding.
 
 ---
 
