@@ -14,11 +14,10 @@
 ---
 <p align="center">
   <b>[ MANOLACHE CEZAR-PETRU ]</b><br>
-  <code>Type: Human.Entity.Student</code> | <code>Node: CSIE-ASE_BUCHAREST</code><br>
+  <code>Type: Human.Entity.Student</code> | <code>Node: Informatica_Economic@ASE_Bucharest (Cibernetica)</code><br>
   <code>Target: Offensive Security Certified Professional (OSCP)</code><br>
   <i>"I've never found it hard to hack people. Vulnerabilities are like a neon sign."</i>
 </p>
-
 ---
 # 📂 ~/learning/path/2026_2030_roadmap
 #### 🟢 PHASE 0: THE CORE (In Progress)
