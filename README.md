@@ -1,15 +1,12 @@
-# [root@CezarManolache ~]# whoami 🕵️‍♂️
-
+<h1 align="center">
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
+  [root@cezmanolache ~]# whoami
+</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Control+is+an+illusion.;Informatics+@+ASE+Bucuresti;Aspiring+Cyber+Security+Expert;Passionate+about+Cyber+Security." alt="Typing SVG" />
 </p>
 
 ---
-<h1 align="center">
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
-  [root@cezmanolache ~]# whoami
-</h1>
-
 <p align="center">
   <img src="https://img.shields.io/badge/CSIE--ASE_BUCHAREST-CYBERSECURITY-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
 </p>
