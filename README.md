@@ -16,6 +16,22 @@
 ---
 ### 🛠️ STACK_AND_ARSENAL
 
-<p align="left">
-  [![My Skills](https://skillicons.dev/icons?i=linux,bash,python,kali,wireshark,cisco,aws,git,docker,cpp,postgres)](https://skillicons.dev)
-</p>
+#### 💻 OS & Scripting
+[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
+[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) 
+[![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
+
+#### 🐍 Programming
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
+[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+
+#### 🌐 Networking & Security
+[![Cisco](https://skillicons.dev/icons?i=cisco)](https://skillicons.dev) 
+[![Wireshark](https://skillicons.dev/icons?i=wireshark)](https://skillicons.dev) 
+
+#### ☁️ Cloud & DevOps
+[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
+
+#### 🗄️ Databases
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
