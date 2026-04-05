@@ -14,24 +14,20 @@
 - [ ] **Phase 4:** | Offensive Security Certified Professional (OSCP) 🚩
 
 ---
-### 🛠️ STACK_AND_ARSENAL
+### 🛠️ ACTIVE_ARSENAL (Current Skills)
+> "The basics are the foundation of every hack."
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,git,cpp&theme=dark)](https://skillicons.dev)
 
-#### 💻 OS & Scripting
-[![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev) 
-[![Bash](https://skillicons.dev/icons?i=bash)](https://skillicons.dev) 
-[![Kali](https://skillicons.dev/icons?i=kali)](https://skillicons.dev)
+* **Linux & Bash:** Currently pwning levels on **OverTheWire Bandit**.
+* **Git:** Version control for my journey.
+* **C++:** Academic foundation @ CSIE.
 
-#### 🐍 Programming
-[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
-[![C++](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+---
 
-#### 🌐 Networking & Security
-[![Cisco](https://skillicons.dev/icons?i=cisco)](https://skillicons.dev) 
-[![Wireshark](https://skillicons.dev/icons?i=wireshark)](https://skillicons.dev) 
+### 🎯 TARGETING (Currently Learning / Future)
+> "Acquiring new tools for the endgame."
+[![Target Skills](https://skillicons.dev/icons?i=py,cisco,kali,aws,docker&theme=dark)](https://skillicons.dev)
 
-#### ☁️ Cloud & DevOps
-[![AWS](https://skillicons.dev/icons?i=aws)](https://skillicons.dev) 
-[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) 
-
-#### 🗄️ Databases
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+* **Python:** Next step for automation and exploit dev.
+* **Networking:** Road to **CCNA**.
+* **Offensive:** Preparing for the **OSCP** grind.
