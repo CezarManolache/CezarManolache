@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Booting+Matrix...;Decrypting+system+files...;Access+granted." alt="Matrix Terminal Typing" />
-</p>
----
-
 <h1 align="center">
   <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="50" height="50" />
   [root@cezmanolache ~]# whoami
