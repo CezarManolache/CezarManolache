@@ -12,4 +12,3 @@
 - [ ] **Phase 2:** | Python for Cyber (Automation & Exploit Dev) 🐍
 - [ ] **Phase 3:** | Practical Pentesting (eJPT / HTB Academy) ⚔️
 - [ ] **Phase 4:** | Offensive Security Certified Professional (OSCP) 🚩
-- [ ] **Phase 5:** | Cloud Security Operations (AWS Security Specialty) ☁️
