@@ -8,8 +8,9 @@
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/badge/ASE_Bucharest-Informatica_Economică(Cibernetică)-red?style=for-the-badge&logo=unacademy&logoColor=white&labelColor=800000" />
+  <img src="https://img.shields.io/badge/ASE_Bucharest-Informatica_Economică(Cibernetică)-00FF41?style=for-the-badge&logo=linux&logoColor=00FF41&labelColor=0D1117" />
 </p>
+---
 
 # Hey there 👋
 
