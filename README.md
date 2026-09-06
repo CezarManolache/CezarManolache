@@ -21,7 +21,7 @@ I’m **Cezar Manolache**, a motivated student and aspiring cybersecurity enthus
 ### 📂 ~/learning/path/2026_2030_roadmap
 
 - [x] **PHASE 0: FUNDAMENTALS** | Linux (RHCSA) & Bash Scripting 🐧
-  ![LPIC-1](https://img.shields.io/badge/CERT-LPIC--1-black?style=flat-square&logo=linux&logoColor=white&labelColor=FCC624)
+  ![LPIC-1](https://img.shields.io/badge/CERT-RHCSA-red?style=flat-square&logo=linux&logoColor=white&labelColor=F64234)
   > *Status: Currently preparing for RHCSA*
 
 - [ ] **PHASE 1: NETWORKING** | Network Mastery (Cisco CCNA) 🌐
